@@ -23,7 +23,7 @@ Children's Privacy: The Game is not directed to children under the age of 13. We
 
 Changes to this Privacy Policy: We may update this Privacy Policy to reflect changes in the law or our practices. We will notify you of any significant changes by posting the new Privacy Policy on the app store or within the Game.
 
-Contact Us: If you have any questions about this Privacy Policy or the Game, please contact us at thefishystudio@gmail.com
+Contact Us: If you have any questions about this Privacy Policy or the Game, please contact us at mfischerdev@gmail.com
 
 By playing the Game, you agree to the terms outlined in this Privacy Policy.
 
