@@ -1,23 +1,28 @@
-# Bullet-Barrage
-Bullet-Barrage Game
-
 #Privacy Policy for Bullet Barrage
 
-Effective Date: August 11 2023
+Effective Date: August 16 2023
 
-Thank you for choosing to play Bullet Barrag. This Privacy Policy is designed to help you understand how we collect, use, disclose, and safeguard your information when you use our game.
+Thank you for choosing to play Bullet Barrage. This Privacy Policy is designed to help you understand how we collect, use, disclose, and safeguard your information when you use our game.
 
-No Data Collection: We do not collect any personal information, sensitive data, or any form of user data when you play the Game. We do not require you to provide any personal information to use the Game, and we do not have access to any personal data.
+Information Collection and Use: Unity Ads through IronSource: The Game uses Unity Ads, a service provided by IronSource Ltd., to display advertisements. Unity Ads may collect certain information for the purpose of serving relevant ads to you. 
+This information may include your device's advertising identifier (IDFA for iOS or AAID for Android), IP address, device type, operating system, mobile browser information, and certain in-game activities (such as views and clicks on ads). 
+This data is collected and processed by Unity Ads in accordance with their privacy policy.
 
-Device Permissions: The Game may require certain permissions on your device, such as access to the internet or basic device functionalities like audio or vibration. These permissions are strictly used for the purpose of providing you with the best gaming experience and do not involve the collection or transmission of personal data.
+Consent to Data Collection: By playing the Game and interacting with Unity Ads, you consent to the collection and processing of your data as described in this Privacy Policy and Unity Ads privacy policy.
 
-Third-party Services: The Game does not integrate with any third-party services or APIs that would collect user data.
+Use of Information:
 
-In-app Purchases: No in-app purchases.
+  a. Ad Serving: The information collected by Unity Ads is used to serve relevant advertisements within the Game. This helps support the Game's development and maintenance.
 
-Anonymous Analytics: We may use analytics tools to collect anonymous, non-personal information about your usage of the Game (e.g., gameplay data, crash reports) to improve the performance and gameplay experience. These analytics do not track or identify individual users.
+  b. Analytics: We may use aggregated and anonymous information collected by Unity Ads for analytical purposes to understand how users interact with ads and to improve the overall ad experience.
 
-Updates: We may release updates to the Game, which may include bug fixes, improvements, or new features. These updates may require permissions for the reasons stated in section 2.
+Third-Party Services:
+
+  a. IronSource: IronSource is the platform through which Unity Ads are integrated into the Game. While IronSource may have access to the data collected by Unity Ads, their use of this data is governed by their own privacy policy.
+
+  b. Unity Technologies: Unity Technologies provides the Unity Ads service. Your data collected by Unity Ads may be shared with Unity Technologies for the purposes of ad delivery, targeting, and reporting. Unity Technologies' use of this data is also subject to their privacy policy.
+
+Opt-Out: You are unable to opt out of data collection.
 
 Children's Privacy: The Game is not directed to children under the age of 13. We do not knowingly collect personal information from children under 13. If you believe we have inadvertently collected such information, please contact us so we can promptly remove it.
 
